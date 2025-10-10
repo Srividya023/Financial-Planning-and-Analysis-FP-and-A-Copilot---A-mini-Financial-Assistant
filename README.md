@@ -44,4 +44,3 @@ Python, Pandas, Streamlit, Plotly/Matplotlib, simple intent routing, Git/GitHub
   - numbers for the answer
   - a figure object for the chart
 - **UI** renders results and shows helpful notes if data/sheets are missing.
-
