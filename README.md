@@ -44,3 +44,7 @@ Python, Pandas, Streamlit, Plotly/Matplotlib, simple intent routing, Git/GitHub
   - numbers for the answer
   - a figure object for the chart
 - **UI** renders results and shows helpful notes if data/sheets are missing.
+
+## Demo
+![image_alt](https://github.com/Srividya023/Financial-Planning-and-Analysis-FP-and-A-Copilot---A-mini-Financial-Assistant/blob/9f3eb40a7543dbc01be4706e756cda5566705747/Home%20Page.jpg)
+
