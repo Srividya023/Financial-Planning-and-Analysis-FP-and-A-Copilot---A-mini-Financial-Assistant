@@ -47,4 +47,8 @@ Python, Pandas, Streamlit, Plotly/Matplotlib, simple intent routing, Git/GitHub
 
 ## Demo
 ![image_alt](https://github.com/Srividya023/Financial-Planning-and-Analysis-FP-and-A-Copilot---A-mini-Financial-Assistant/blob/9f3eb40a7543dbc01be4706e756cda5566705747/Home%20Page.jpg)
+![image_alt](https://github.com/Srividya023/Financial-Planning-and-Analysis-FP-and-A-Copilot---A-mini-Financial-Assistant/blob/97adee4e3dd4fe7bb44c828c15e730ede0a11376/Agent%20Page.jpg)
+![image_alt](https://github.com/Srividya023/Financial-Planning-and-Analysis-FP-and-A-Copilot---A-mini-Financial-Assistant/blob/97adee4e3dd4fe7bb44c828c15e730ede0a11376/Agent%20Answers%20-%201.jpg)
+
+
 
